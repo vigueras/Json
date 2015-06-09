@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">json</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_planta">Clave de la planta:</string>
+    <string name="nombre_planta">Nombre de la planta:</string>
+    <string name="tipo_planta">Tipo de la planta:</string>
+    <string name="color_planta">Color de la planta:</string>
+    <string name="precio">Precio:</string>
+
+    <string name="title_activity_vista_indiv">vista_indiv</string>
+
+</resources>
